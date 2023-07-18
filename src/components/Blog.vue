@@ -7,21 +7,21 @@ const blogItems = [
     name: "James",
     date: "Jun 14, 2020",
     category: "Digital Service",
-    photo: "../src/assets/images/person_1.jpg",
+    photo: "images/person_1.jpg",
   },
   {
     title: "Far far away behind the word mountains far from the countries",
     name: "James",
     date: "Jun 14, 2020",
     category: "Digital Service",
-    photo: "../src/assets/images/person_2.jpg",
+    photo: "images/person_2.jpg",
   },
   {
     title: "Far far away behind the word mountains far from the countries",
     name: "James",
     date: "Jun 14, 2020",
     category: "Digital Service",
-    photo: "../src/assets/images/person_3.jpg",
+    photo: "images/person_3.jpg",
   },
 ];
 </script>

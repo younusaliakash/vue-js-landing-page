@@ -9,21 +9,21 @@ const testimonials = [
     designation: "Facebook, Product Lead",
     quote:
       '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
-    photo: "../src/assets/images/person_1.jpg",
+    photo: "images/person_1.jpg",
   },
   {
     name: "James Anderson",
     designation: "Facebook, Product Lead",
     quote:
       '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
-    photo: "../src/assets/images/person_2.jpg",
+    photo: "images/person_2.jpg",
   },
   {
     name: "James Anderson",
     designation: "Facebook, Product Lead",
     quote:
       '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
-    photo: "../src/assets/images/person_3.jpg",
+    photo: "images/person_3.jpg",
   },
 ];
 </script>
